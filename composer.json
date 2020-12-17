@@ -1,0 +1,7 @@
+{
+    "name": "savio/eamil",
+    "description": "Testando envio de email",
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    }
+}
